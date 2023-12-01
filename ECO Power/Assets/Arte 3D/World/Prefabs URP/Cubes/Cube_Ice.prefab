@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4118624490078602}
   - component: {fileID: 33586633505409464}
   - component: {fileID: 23901086012621468}
-  - component: {fileID: 9075681385801767298}
+  - component: {fileID: 2972080205062703762}
   m_Layer: 0
   m_Name: Cube_Ice
   m_TagString: Untagged
@@ -84,7 +84,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &9075681385801767298
+--- !u!65 &2972080205062703762
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

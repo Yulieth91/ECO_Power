@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4731838947211522}
   - component: {fileID: 33994646826584916}
   - component: {fileID: 23226038714742922}
-  - component: {fileID: 3123612361689949601}
+  - component: {fileID: -7167139379363033200}
   m_Layer: 0
   m_Name: Cube_GroundDried
   m_TagString: Untagged
@@ -84,7 +84,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &3123612361689949601
+--- !u!65 &-7167139379363033200
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

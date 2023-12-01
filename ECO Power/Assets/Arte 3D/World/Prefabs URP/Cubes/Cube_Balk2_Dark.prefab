@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4374650381750678}
   - component: {fileID: 33006009163796636}
   - component: {fileID: 23102791932746552}
-  - component: {fileID: 6413769904294695757}
+  - component: {fileID: 3429231532016352316}
   m_Layer: 0
   m_Name: Cube_Balk2_Dark
   m_TagString: Untagged
@@ -84,7 +84,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &6413769904294695757
+--- !u!65 &3429231532016352316
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

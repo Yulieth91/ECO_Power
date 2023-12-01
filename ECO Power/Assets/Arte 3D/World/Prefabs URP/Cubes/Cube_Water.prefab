@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4967946560886230}
   - component: {fileID: 33714322251266820}
   - component: {fileID: 23204530280785360}
-  - component: {fileID: -8166997438128173791}
+  - component: {fileID: 4307052003317405597}
   m_Layer: 0
   m_Name: Cube_Water
   m_TagString: Untagged
@@ -84,7 +84,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &-8166997438128173791
+--- !u!65 &4307052003317405597
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
