@@ -65,7 +65,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Specular:
-        m_Texture: {fileID: 2800000, guid: 372780f96c169c7449043fc3eee4fe0f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4c0f183435b3d824a974ffa68b34a78c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TextureSample0:
@@ -106,7 +106,7 @@ Material:
     - _QueueOffset: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _Specular_Intensity: 3
+    - _Specular_Intensity: 1.25
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
